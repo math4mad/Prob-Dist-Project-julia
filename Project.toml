@@ -1,0 +1,13 @@
+[deps]
+Bootstrap = "e28b5b4c-05e8-5b66-bc03-6f0c0a0a06e0"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+HypothesisTests = "09f84164-cd44-5f33-b23f-e6b0d136a0d5"
+Pingouin = "61ac1d4c-5a1f-4019-949c-7919748f8c44"
+Pipe = "b98c9c47-44ae-5843-9183-064241ee97a0"
+RCall = "6f49c342-dc21-5d91-9882-a32aef131414"
+RDatasets = "ce6b1742-4840-55fa-b093-852dadbb1d8b"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+Turing = "fce5fe82-541a-59a6-adf8-730c64b5f9a0"
